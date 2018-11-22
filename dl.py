@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import requests, re
 import time, sys, os, optparse
 from requests_toolbelt import MultipartEncoder
